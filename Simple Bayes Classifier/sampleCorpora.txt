@@ -1,0 +1,21 @@
+i didnt like it,neg
+i liked it very much,pos
+i hate it,neg
+i dont like it,neg
+i think its terrible,pos
+its brilliant,pos
+i thought it was the best,pos
+it was worse than the last one,neg
+the last one was better,neg
+it was better than the last one,pos
+a bit rubbish,neg
+alright,pos
+really good,pos
+really bad,neg
+it was sad,neg
+great,pos
+tiring,neg
+tired,neg
+under the weather,neg
+fantastic,pos
+fab,pos
